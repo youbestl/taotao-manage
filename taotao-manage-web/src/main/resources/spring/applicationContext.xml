@@ -21,6 +21,7 @@
 				<value>classpath:jdbc.properties</value>
 				<value>classpath:evn.properties</value>
 				<value>classpath:redis.properties</value>
+				<value>classpath:httpclient.properties</value>
 			</list>
 		</property>
 	</bean>
